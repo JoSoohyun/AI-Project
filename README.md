@@ -27,6 +27,7 @@ LSTM모델을 Tensorflow를 사용하여 설계
 
 ## 결과
 ![image](https://user-images.githubusercontent.com/58103846/71714180-23bbe800-2e50-11ea-9cae-68dc0093f120.png)
+
 <전체 테스트 집합에 대한 미세먼지 예측 결과>
 
 - MAE = 14.3
@@ -34,6 +35,7 @@ LSTM모델을 Tensorflow를 사용하여 설계
 - RMSE = 21.73
 
 ![image](https://user-images.githubusercontent.com/58103846/71714187-333b3100-2e50-11ea-94a6-7cc8f1c9505f.png)
+
 <Window 크기에 따른 학습 결과>
 
 Window 크기를 2일로 했을 때 MAE가 14.34로 가장 좋은 성능을 기록, 학습 수렴 속도도 가장 빠름
